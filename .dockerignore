@@ -1,0 +1,52 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+# .env/
+.venv/
+
+# Environment and secrets files
+# *.env
+# *.env.*
+
+# OS / editor specific
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+
+# Testing artifacts
+htmlcov/
+.tox/
+.coverage
+.cache/
+pytest_cache/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Docker-specific
+Dockerfile
+docker-compose.yml
+
+# Logs
+*.log
+logs/
+
+# Not needed in image
+.ipynb_checkpoints/
+*.ipynb
+notebooks/
+exploration/
+research/

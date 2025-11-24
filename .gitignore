@@ -1,0 +1,10 @@
+__pycache__
+.venv
+.env
+assets.db
+predictions.db
+logs_new.txt
+logs.txt
+test.csv
+test.py
+test_from.json

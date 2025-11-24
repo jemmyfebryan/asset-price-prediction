@@ -1,0 +1,1 @@
+implement fetching data (on empty bucket or existing bucket) @data_fetch_service
